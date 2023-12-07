@@ -63,7 +63,7 @@ import seaborn as sns
 import streamlit as st
 ```
 
-:red_circle: To install the required libraries (numpy, pandas, matplotlib, seaborn, and streamlit), you can use the following commands in your command prompt or terminal:
+ ### To install the required libraries (numpy, pandas, matplotlib, seaborn, and streamlit), you can use the following commands in your command prompt or terminal:
 
 ```
 pip install numpy
